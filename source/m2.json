@@ -1,5 +1,6 @@
 {
-  "spider":"https://agit.ai/66666/mao/raw/branch/master/jar/0928.jar",
+  "spider":"https://ghproxy.com/https://github.com/q2564063/tvbox_source/blob/master/2212.jar",
+  //"spider":"https://agit.ai/66666/mao/raw/branch/master/jar/0928.jar",
   "wallpaper":"https://bg.s.welsun.win/api",
   "lives": [{"group": "redirect","channels": [{"name": 
   "live","urls": ["proxy://do=live&type=txt&ext= aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvY29tbWl0L2Q4N2Y2YTM5YzI4NTVhNWU2ODU1ZmJiOTRiOTQzNTE5MmZmMTk5ZWQvMDAvdmlwLnR4dA=="]}]}],
